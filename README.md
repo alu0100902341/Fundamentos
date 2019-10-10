@@ -6,7 +6,7 @@
 Repositorio de la asignatura Fundamentos del Desarrollo de Videojuegos del Máster de Desarrollo de Videojuegos de la ULL
 
 ## Miembros del grupo
-  - Eleazar
+  - Eleazar Díaz Delgado
   - David
   - Ángel
   - Sergio Ravelo Vegino
