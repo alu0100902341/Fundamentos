@@ -7,7 +7,7 @@ Repositorio de la asignatura Fundamentos del Desarrollo de Videojuegos del Mást
 
 ## Miembros del grupo
   - Eleazar Díaz Delgado
-  - David
+  - J. David Padilla Pérez
   - Ángel Luis Morales Hernández
   - Sergio Ravelo Vegino
 
